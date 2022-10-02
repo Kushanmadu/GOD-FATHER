@@ -37,14 +37,14 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['94771499974'] //ur owner number
-global.ownername = "kushan" //ur owner name
+global.ownername = "ɢᴏᴅ ғᴀᴛʜᴇʀ" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
 global.owner = ['94771499974']
-global.ownertag = 'kushan' //ur tag number
+global.ownertag = 'ɢᴏᴅ ғᴀᴛʜᴇʀ' //ur tag number
 global.botnumber = '94771499974' //Add your Bot Number For Log
 global.botname = 'CYBER-X BETA EDITION' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
